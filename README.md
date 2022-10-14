@@ -10,7 +10,7 @@ C# / JAVA / JS / HTML / CSS / SASS / Bootstrap
 - 🔭 I’m currently working on this page. 
 
 
-#### SOCIAL INFORMATION
+## SOCIAL INFORMATION
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Khaledkalo)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khaled-kalo//)  

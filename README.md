@@ -5,11 +5,9 @@
 I'm a beginner Software Developer with a passion for the IT, so I am still learning a lot of new things. I'm always looking for ways to improve my skills and knowledge.
 
 ## Skills
-C# - JAVA - WPF <br/><br/>
-HTML - CSS - JavaScript - SASS - Bootstrap
+- C# - JAVA - WPF
+- HTML - CSS - JavaScript - SASS - Bootstrap
 
-
-- 🔭 I’m currently working on this page. 
 
 
 ## SOCIAL INFORMATION
